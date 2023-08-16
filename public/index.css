@@ -1,0 +1,23 @@
+body {
+    background-image: url("./14710.jpg");
+    background-size: contain;
+}
+
+.container {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 80vh;
+    justify-content: center;
+    margin: 0 auto;
+    width: 80vw;
+}
+
+#main-title {
+    background-color: white;
+}
+
+#main-img {
+    max-height: 80%;
+    max-width: 80%;
+}
